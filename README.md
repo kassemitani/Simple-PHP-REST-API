@@ -1,6 +1,11 @@
 # Simple-PHP-REST-API
 Create Simple RESTful API using PHP Slim Framework
 
+# What is RESTful API?
+A RESTful API is an application program interface (API) that uses HTTP requests to GET, PUT, POST and DELETE data.
+
+A RESTful API -- also referred to as a RESTful web service -- is based on representational state transfer (REST) technology, an architectural style and approach to communications often used in web services development.
+
 ## The Purpose of the project 
 Create a Simple HTTP REST API using PHP Slim framework and MySQL database 
  
